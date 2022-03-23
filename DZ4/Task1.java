@@ -3,7 +3,6 @@ package DZ4;
 import java.util.*;
 
 public class Task1 {
-
         public static void main(String[] args) {
             String[] names = {"Anton", "Anton", "Anna", "Ivan", "Petya",
                     "Anna", "Tanya", "Ivan", "Fedor", "Petya", "Tanya"};

@@ -9,7 +9,7 @@ public class PhoneBook<S, S1> extends HashMap<String, String> {
     public String addRecord(String number, String name) {
         return super.put(number, name);
     }
-
+    
     public Set<String> getRecord(String value) {
         Set<String> returnRecord = new HashSet<>();
         returnRecord.add(value);
